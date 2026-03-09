@@ -1,0 +1,13 @@
+{
+  "name": "sundai-safeloop-radar",
+  "version": "1.0.0",
+  "description": "AI tool-call risk scorer for agent plans",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
